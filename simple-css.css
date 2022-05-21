@@ -71,6 +71,13 @@
     align-items: center;
 }
 
+.center-row-start{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 .center-row-around{
     display: flex;
     justify-content: space-around;
@@ -92,9 +99,13 @@
     
 }
 
+.text-left{
+    text-align: left;
+}
 .text-center{
     text-align: center;
 }
+
 
 .w-250px{
     width: 250px;
@@ -128,8 +139,4 @@
 
 .pointer{
     cursor: pointer;
-}
-
-.inline-block{
-    display: inline-block
 }
