@@ -1,2 +1,2 @@
-# simple-css
-A simple css file for you use in your projects.
+# DCS - CSS
+CSS settings I use on my projects.
