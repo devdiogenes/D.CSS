@@ -101,3 +101,10 @@
 .text-right{
     text-align: right;
 }
+
+.w-100pc{
+    width: 100%;
+}
+.h-100pc{
+    height: 100%;
+}
