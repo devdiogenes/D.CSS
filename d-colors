@@ -2,6 +2,7 @@ html{
     --black: black;
     --blue: blue;
     --dark-gray: darkgray;
+    --gray: gray;
     --light-gray: lightgray;
     --red: red;
     --white: white;
@@ -10,13 +11,15 @@ html{
 .black{color: var(--black)}
 .blue{color: var(--blue)}
 .dark-gray{color: var(--dark-gray)}
+.gray{color: var(--gray)}
 .lightgray{color: var(--light-gray)}
 .red{color: var(--red)}
 .white{color: var(--white)}
 
-.bg-black{color: var(--black)}
-.bg-blue{color: var(--blue)}
-.bg-dark-gray{color: var(--dark-gray)}
-.bg-lightgray{color: var(--light-gray)}
-.bg-red{color: var(--red)}
-.bg-white{color: var(--white)}
+.bg-black{background-color: var(--black)}
+.bg-blue{background-color: var(--blue)}
+.bg-dark-gray{background-color: var(--dark-gray)}
+.bg-gray{background-color: var(--gray)}
+.bg-lightgray{background-color: var(--light-gray)}
+.bg-red{background-color: var(--red)}
+.bg-white{background-color: var(--white)}
