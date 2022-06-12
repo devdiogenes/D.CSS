@@ -149,16 +149,6 @@
     flex-wrap: wrap;
 }
 
-.text-left{
-    text-align: left;
-}
-.text-center{
-    text-align: center;
-}
-.text-right{
-    text-align: right;
-}
-
 .w-100pc{
     width: 100%;
 }
