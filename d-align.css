@@ -1,3 +1,16 @@
+.w-100pc{
+    width: 100%;
+}
+.w-100vw{
+    width: 100vw;
+}
+.h-100pc{
+    height: 100%;
+}
+.h-100vh{
+    height: 100vh;
+}
+
 .left-col{
     display: flex;
     flex-direction: column;
@@ -147,17 +160,4 @@
     justify-content: space-around;
     align-items: end;
     flex-wrap: wrap;
-}
-
-.w-100pc{
-    width: 100%;
-}
-.w-100vw{
-    width: 100vw;
-}
-.h-100pc{
-    height: 100%;
-}
-.h-100vh{
-    height: 100vh;
 }
