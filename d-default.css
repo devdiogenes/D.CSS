@@ -7,6 +7,7 @@
 body{
     --space: 200px; /* Var used to define content margin in the screen */
     font-size: 16.00px;
+    overflow-x: hidden;
 }
 
 b{
