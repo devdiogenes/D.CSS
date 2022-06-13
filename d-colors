@@ -23,3 +23,11 @@ html{
 .bg-lightgray{background-color: var(--light-gray)}
 .bg-red{background-color: var(--red)}
 .bg-white{background-color: var(--white)}
+
+.hover:bg-black{background-color: var(--black)}
+.hover:bg-blue{background-color: var(--blue)}
+.hover:bg-dark-gray{background-color: var(--dark-gray)}
+.hover:bg-gray{background-color: var(--gray)}
+.hover:bg-lightgray{background-color: var(--light-gray)}
+.hover:bg-red{background-color: var(--red)}
+.hover:bg-white{background-color: var(--white)}
