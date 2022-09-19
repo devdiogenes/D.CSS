@@ -1,2 +1,2 @@
 # D.CSS
-CSS settings I use on my projects.
+That's the CSS settings I like to use on my projects =)
