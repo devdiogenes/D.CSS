@@ -1,3 +1,7 @@
+@import url("d-colors.css");
+@import url("d-align.css");
+@import url("d-text.css");
+
 *{
     margin: 0;
     padding: 0;
