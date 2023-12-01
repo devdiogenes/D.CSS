@@ -1,2 +1,2 @@
 # D.CSS
-That's the CSS settings I like to use on my projects =)
+That was a mini-framework that I made before learning to use other CSS frameworks
